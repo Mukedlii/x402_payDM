@@ -1,0 +1,14 @@
+{
+  "name": "paydm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@coinbase/x402": "^2.1.0",
+    "express": "^5.1.0",
+    "x402-express": "^1.2.0"
+  }
+}
